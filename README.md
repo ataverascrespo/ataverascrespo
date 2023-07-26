@@ -12,7 +12,6 @@ Here are some of the projects that I have worked on recently:
 
 #### **Record Rack** 
 - A full-stack application that allows users to create a collection of their favourite albums in a digitized vinyl record display.
-- You can access Record Rack [here.](https://recordrack.netlify.app/)
 - [Link to Github Repo](https://github.com/ataverascrespo/RecordRack)
 
 #### **Computer Graphics Minecraft Sim Project**

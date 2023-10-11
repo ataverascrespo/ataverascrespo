@@ -27,21 +27,6 @@ Hey, I'm Alex 👋. I recently graduated Trent University with a B.Sc in Compute
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 
-## Projects
-Here are some of the projects that you can find on my Github:
-
-### **[Record Rack](https://github.com/ataverascrespo/RecordRack)** 
-- Built with a .NET 7 API, a PostgreSQL DB, and a React + Typescript web app styled with Tailwind CSS.
-- Record Rack is a full-stack, progressive web app. Users can create accounts, and curate a digital music collection powered by Spotify's Web API. Users can also connect with and follow other users, allowing them to view a wide variety of music collections and leave likes on other users' albums and/or tracks.
-
-### **OMG Mobile** 
-- Built with Dart, Flutter SDK, and Firebase.
-- OMG Mobile is a cross-platform, modern mobile app for a local restaurant client (as part of my Software Engineering group project at Trent University). The client was looking to improve their online presence, increase customer retention, and stay competitive. The client was extremely impressed with the final product. 
-  
-### **[Unity Minecraft Sim Project](https://ataverascrespo.itch.io/minecraft-perlin-noise)**
-- A Unity game developed for COIS 4480H: Computer Graphics that implements the Perlin Noise algorithm. This algorithm allows the user to generate and manipulate a Minecraft-style terrain with mountains, valleys, and water bodies.
-
-
 ## Contact Me
 💬 You can reach me via email at alexmanuelt@hotmail.com or on [LinkedIn](https://www.linkedin.com/in/alex-taveras-crespo). Either way, I'd love to connect!
 

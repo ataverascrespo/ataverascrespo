@@ -1,11 +1,13 @@
 # Hey, I'm Alex 👋 
-I'm a dedicated Software Developer and problem solver. I'm deeply involved in refining my skills and exploring new technologies. Right now I'm consistently working with languages such as Java, C#, Python, TypeScript and Bash.
+### Senior Software Developer @ Nasdaq
 
-I'm also diving deep into the world of infrastructure, working with Azure DevOps to develop and maintain CI/CD pipelines in my current role, as well as in my free time with Docker, AWS, and GCP. But beyond coding and learning, I love to collect records and listen to music. 
+Dedicated software developer and problem solver and always refining my skills or exploring new technologies. My most frequently used technologies include **Java, C#, Python, TypeScript, Shell scripts, Scala, SQL, Docker, AWS, GCP and Git.**
 
-I'm constantly seeking opportunities to learn and collaborate on exciting projects. 
+In my career I've worked in fields such as enterprise app development, DevOps/infrastructure-focused development, and currently, data engineering and integration with Nasdaq. But beyond coding and learning, I love to collect records, listen to music and go to concerts.
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/alex-taveras-crespo) 💬 
+I'm constantly seeking opportunities to learn and collaborate on exciting projects!
+
+Feel free to hit me on [LinkedIn](https://www.linkedin.com/in/alex-taveras-crespo) 💬 
 
 <!--
 **ataverascrespo/ataverascrespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
